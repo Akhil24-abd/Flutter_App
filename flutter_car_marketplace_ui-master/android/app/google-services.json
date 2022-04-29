@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810561607226",
+    "project_id": "flutterprojectexp",
+    "storage_bucket": "flutterprojectexp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810561607226:android:dd0e514be7425280df0703",
+        "android_client_info": {
+          "package_name": "com.example.dealerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810561607226-6rql8lfvmb654v865ghq88s5chu8bpam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZTe5Pk8_8WT3oQXjPNBHc7Lqe0EZJ04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810561607226-6rql8lfvmb654v865ghq88s5chu8bpam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
